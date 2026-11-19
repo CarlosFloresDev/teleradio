@@ -1,0 +1,41 @@
+{
+  "textures": {
+    "lado": "teleradio:block/pantalla_lado",
+    "frente": "teleradio:block/pantalla_frente",
+    "particle": "teleradio:block/pantalla_lado"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        14
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frente"
+        },
+        "south": {
+          "texture": "#lado"
+        },
+        "east": {
+          "texture": "#lado"
+        },
+        "west": {
+          "texture": "#lado"
+        },
+        "up": {
+          "texture": "#lado"
+        },
+        "down": {
+          "texture": "#lado"
+        }
+      }
+    }
+  ]
+}

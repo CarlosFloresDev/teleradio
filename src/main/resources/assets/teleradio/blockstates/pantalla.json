@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "teleradio:block/pantalla"
+    },
+    "facing=east": {
+      "model": "teleradio:block/pantalla",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "teleradio:block/pantalla",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "teleradio:block/pantalla",
+      "y": 270
+    }
+  }
+}

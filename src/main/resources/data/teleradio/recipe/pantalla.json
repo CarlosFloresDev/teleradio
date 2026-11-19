@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IQI",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:glass",
+    "Q": "minecraft:glowstone_dust",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "teleradio:pantalla",
+    "count": 1
+  }
+}

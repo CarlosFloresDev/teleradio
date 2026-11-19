@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "N N"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "L": "minecraft:leather",
+    "N": "minecraft:note_block"
+  },
+  "result": {
+    "id": "teleradio:audifonos",
+    "count": 1
+  }
+}

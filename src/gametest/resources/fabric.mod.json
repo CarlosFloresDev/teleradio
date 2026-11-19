@@ -1,0 +1,18 @@
+{
+	"schemaVersion": 1,
+	"id": "teleradio-gametest",
+	"version": "1.0.0",
+	"name": "TeleRadio - Pruebas",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-gametest": [
+			"com.aventura.teleradio.test.TeleRadioGameTests"
+		],
+		"fabric-client-gametest": [
+			"com.aventura.teleradio.test.TeleRadioClientTests"
+		]
+	},
+	"depends": {
+		"teleradio": "*"
+	}
+}

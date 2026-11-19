@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "PNP",
+    "PRP"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "P": "#minecraft:planks",
+    "N": "minecraft:note_block",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "teleradio:radio",
+    "count": 1
+  }
+}

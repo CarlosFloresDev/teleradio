@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.aventura.teleradio.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"SoundEngineMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

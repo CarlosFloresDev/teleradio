@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CNC",
+    "CRC"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "N": "minecraft:note_block",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "teleradio:parlante_portatil",
+    "count": 1
+  }
+}

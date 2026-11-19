@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "teleradio",
+	"version": "${version}",
+	"name": "TeleRadio",
+	"description": "Radios, televisores y pantallas gigantes (hasta 16x9 bloques) que reproducen YouTube, radios online y archivos de audio/video, sincronizados para todos los jugadores.",
+	"authors": ["chefsitturchey"],
+	"license": "CC0-1.0",
+	"icon": "assets/teleradio/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.aventura.teleradio.TeleRadioMod"],
+		"client": ["com.aventura.teleradio.client.TeleRadioClient"]
+	},
+	"mixins": [
+		{"config": "teleradio.client.mixins.json", "environment": "client"}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

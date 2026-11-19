@@ -1,0 +1,9 @@
+{
+  "block.teleradio.radio": "Radio",
+  "block.teleradio.televisor": "Televisor",
+  "block.teleradio.pantalla": "Pantalla Gigante",
+  "item.teleradio.control_remoto": "Control Remoto",
+  "itemGroup.teleradio": "TeleRadio",
+  "item.teleradio.audifonos": "Audífonos",
+  "item.teleradio.parlante_portatil": "Parlante Portátil"
+}

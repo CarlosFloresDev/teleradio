@@ -1,0 +1,138 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "rejilla": "teleradio:block/parlante_rejilla",
+    "tapa": "teleradio:block/parlante_tapa",
+    "particle": "teleradio:block/parlante_rejilla"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        5,
+        5.5
+      ],
+      "to": [
+        13,
+        10,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#rejilla"
+        },
+        "south": {
+          "texture": "#rejilla"
+        },
+        "east": {
+          "texture": "#tapa"
+        },
+        "west": {
+          "texture": "#tapa"
+        },
+        "up": {
+          "texture": "#rejilla"
+        },
+        "down": {
+          "texture": "#rejilla"
+        }
+      }
+    },
+    {
+      "from": [
+        3.5,
+        4.5,
+        6
+      ],
+      "to": [
+        12.5,
+        10.5,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#rejilla"
+        },
+        "south": {
+          "texture": "#rejilla"
+        },
+        "east": {
+          "texture": "#tapa"
+        },
+        "west": {
+          "texture": "#tapa"
+        },
+        "up": {
+          "texture": "#rejilla"
+        },
+        "down": {
+          "texture": "#rejilla"
+        }
+      }
+    },
+    {
+      "from": [
+        2.5,
+        6,
+        6.5
+      ],
+      "to": [
+        3,
+        9,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tapa"
+        },
+        "south": {
+          "texture": "#tapa"
+        },
+        "east": {
+          "texture": "#tapa"
+        },
+        "west": {
+          "texture": "#tapa"
+        },
+        "up": {
+          "texture": "#tapa"
+        },
+        "down": {
+          "texture": "#tapa"
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        6,
+        6.5
+      ],
+      "to": [
+        13.5,
+        9,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tapa"
+        },
+        "south": {
+          "texture": "#tapa"
+        },
+        "east": {
+          "texture": "#tapa"
+        },
+        "west": {
+          "texture": "#tapa"
+        },
+        "up": {
+          "texture": "#tapa"
+        },
+        "down": {
+          "texture": "#tapa"
+        }
+      }
+    }
+  ]
+}
